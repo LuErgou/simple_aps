@@ -11,6 +11,5 @@ https://gitee.com/insistence2022/RuoYi-Vue3-FastAPI
 git也不会用
 u'bu'gen'bu'
 # 计划
-## 2023年1月1日
-- 完成一个简单的APS
-
+## 2025年4月1日
+- 应付一下搞个系统
