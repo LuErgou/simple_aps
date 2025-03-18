@@ -7,7 +7,7 @@ https://gitee.com/insistence2022/RuoYi-Vue3-FastAPI
 加几个用户维护数据、规则的页面
 然后搞个排产结果页面
 
-# 好烦啊
+# 好烦啊bufanbufan
 git也不会用
 u'bu'gen'bu'
 # 计划
