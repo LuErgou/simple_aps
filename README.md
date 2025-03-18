@@ -8,4 +8,9 @@ https://gitee.com/insistence2022/RuoYi-Vue3-FastAPI
 然后搞个排产结果页面
 
 # 好烦啊
+git也不会用
+u'bu'gen'bu'
+# 计划
+## 2023年1月1日
+- 完成一个简单的APS
 
